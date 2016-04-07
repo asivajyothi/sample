@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 // Referenced classes of package com.accenture.drf.pojo:
-//            Batch, MstCourse, User
+//            Batch, MstCourse, User, jyothi
 
 public class Aspirant
     implements Serializable
